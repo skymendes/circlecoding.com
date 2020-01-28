@@ -1,7 +1,7 @@
 
 
 {
-  "masterPicture": "/assets/uploads/cca_seal.png",
+  "masterPicture": "assets/uploads/cca_seal.png",
   "iconsPath": "/assets/favicons/",
   "design": {
     "ios": {
